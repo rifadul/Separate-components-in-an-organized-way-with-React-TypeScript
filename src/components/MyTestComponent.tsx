@@ -14,7 +14,7 @@ const MyTestComponent = () => {
         color: "aqua",
         textAlign: "left"
       }}>
-        How to separate components in organize the way and How to use this properly...
+        How to separate components in an organized way and How to use this properly...
       </Typography>
 
       <Box sx={{
